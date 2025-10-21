@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hello, I am "bang"
 
-<!--
-**bangdotnet/bangdotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 18 y/o Developer
 
-Here are some ideas to get you started:
+You can find out more about me on here! ;)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🗒️ My Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,lua,python,figma" />
+</p>
+
+---
+
+## 🌏 About Me
+-  Self taught **Fullstack Developer**
+-  I make UI designs on Figma mostly, and use the designs to make the Frontend.
+-  I make Discord Bots in Python.
+-  I can Speak German, English, French and Turkish
+
+---
+
+## 📂 Projects
+Explore my repositories for:
+- Frontend components
+- Template Websites
+- FiveM Scripts
+- Python Scripts
+
+---
+
+## 📫 Contact
+- GitHub: [zugriffsrichter](https://github.com/zugriffsrichter)
+- Email: zugriffsrichter@gmail.com
+- Discord: bang.net
+- Open for collaborations, Contact me if you like to.
