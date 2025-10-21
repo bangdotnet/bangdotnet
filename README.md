@@ -32,7 +32,7 @@ Explore my repositories for:
 ---
 
 ## 📫 Contact
-- GitHub: [zugriffsrichter](https://github.com/zugriffsrichter)
-- Email: zugriffsrichter@gmail.com
+- GitHub: [bandotnet](https://github.com/bangdotnet)
+- Email: bang00net@gmail.com
 - Discord: bang.net
 - Open for collaborations, Contact me if you like to.
