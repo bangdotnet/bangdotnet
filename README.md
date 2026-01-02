@@ -4,13 +4,6 @@ I am 19 y/o
 
 ---
 
-## About
-I design simple UIs and build them into real projects.
-
-Languages: English, German, French, Turkish
-
----
-
 ## Mastered
 <p>
   <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
