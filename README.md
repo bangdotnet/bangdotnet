@@ -4,7 +4,7 @@
 
 ---
 
-## About 
+## About
 I design simple UIs and build them into real projects.
 
 Languages: English, German, French, Turkish
@@ -13,20 +13,20 @@ Languages: English, German, French, Turkish
 
 ## Tech
 <p>
-  <img src="https://img.shields.io/badge/HTML-007acc?style=flat-square" />
-  <img src="https://img.shields.io/badge/CSS-007acc?style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-007acc?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-007acc?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lua-007acc?style=flat-square" />
-  <img src="https://img.shields.io/badge/Figma-007acc?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Lua-white?style=for-the-badge&logo=lua&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
 </p>
 
 ---
 
 ## Learning
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000" />
 </p>
 
 ---
