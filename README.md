@@ -32,7 +32,7 @@ Languages: English, German, French, Turkish
 ## What I do
 Frontend components  
 Website templates  
-Figma UI Designs
+Figma UI Designs  
 Learn new Languages (e.g c++)
 
 ---
