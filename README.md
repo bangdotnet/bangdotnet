@@ -1,6 +1,6 @@
 # bang
 
-18 y/o developer
+18 y/o
 
 ---
 
