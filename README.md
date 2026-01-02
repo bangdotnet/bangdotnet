@@ -14,7 +14,7 @@ Languages: English, German, French, Turkish
 ## Tech
 <p>
   <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
 </p>
