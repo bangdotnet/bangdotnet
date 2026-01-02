@@ -29,11 +29,11 @@ Languages: English, German, French, Turkish
 
 ---
 
-## What I build
+## What I do
 Frontend components  
 Website templates  
-Discord bots (Python)  
-FiveM scripts  
+Figma UI Designs
+Learn new Languages (e.g c++)
 
 ---
 
