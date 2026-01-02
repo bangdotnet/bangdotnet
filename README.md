@@ -24,7 +24,6 @@ Languages: English, German, French, Turkish
 ## Learning
 <p>
   <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
 </p>
 
