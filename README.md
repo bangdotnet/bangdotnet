@@ -1,10 +1,12 @@
-# Hey! I go by 'bang'
+<div align="center">
 
-I am 19 y/o
+# bang
 
----
+19 y/o developer
 
-## Mastered
+<br/>
+
+### Mastered
 <p>
   <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=white&labelColor=000000" />
@@ -12,15 +14,16 @@ I am 19 y/o
   <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
 </p>
 
----
+<br/>
 
-## Mastering
+### Learning
 <p>
   <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
 </p>
 
----
+<br/>
 
-## Contact
-Discord: bang.net  
+Discord: **bang.net**
+
+</div>
