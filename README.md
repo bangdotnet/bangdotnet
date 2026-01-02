@@ -1,6 +1,6 @@
-# bang
+# Hey! I go by 'bang'
 
-18 y/o
+I am 18 y/o
 
 ---
 
