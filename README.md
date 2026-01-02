@@ -1,6 +1,6 @@
 <div align="center">
 
-# bang
+# Hi, I am Bang
 
 19 y/o developer
 
