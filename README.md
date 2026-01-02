@@ -4,8 +4,7 @@
 
 ---
 
-## About
-Self-taught developer focused on frontend and scripting.  
+## About 
 I design simple UIs and build them into real projects.
 
 Languages: English, German, French, Turkish
