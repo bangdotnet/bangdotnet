@@ -38,8 +38,4 @@ Learn new Languages (e.g c++)
 ---
 
 ## Contact
-GitHub: https://github.com/bangdotnet  
-Email: bang00net@gmail.com  
 Discord: bang.net  
-
-Open to collaborations.
