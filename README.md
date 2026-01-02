@@ -11,7 +11,7 @@ Languages: English, German, French, Turkish
 
 ---
 
-## Tech
+## Mastered
 <p>
   <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=white&labelColor=000000" />
