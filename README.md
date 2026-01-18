@@ -19,7 +19,6 @@
 ### Making Progress on:
 <p>
   <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" style="margin: 8px;" />
-    <img src="https://img.shields.io/badge/Csharp-white?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" style="margin: 8px;" />
   <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" style="margin: 8px;" />
 </p>
  
