@@ -2,7 +2,7 @@
 
 # Hi, I am Bang
 
-19 y/o developer
+my name is cringe ik
 
 <br/>
 
