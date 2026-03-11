@@ -2,7 +2,7 @@
 
 # Hi, I am Bang
 
-my name is cringe ik
+my name is cringe, I know 😵‍💫
 
 <br/>
 
